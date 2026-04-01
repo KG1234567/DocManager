@@ -1,0 +1,25 @@
+# python -m venv venv
+# venv\Scripts\activate
+# pip install -r requirements.txt
+# streamlit run app\main.py
+
+'''
+git init          
+git status
+git add .
+git commit -m "Added login feature"
+
+If error?
+git config user.email "newuser@example.com"
+git config user.name "KG1234567"
+
+git branch -M main
+git remote add origin https://github.com/KG1234567/DocManager.git
+git push -u origin main
+
+If updates are made to any file then -
+git add .
+git commit -m ""
+git push -u origin main
+
+'''
