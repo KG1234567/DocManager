@@ -1,3 +1,9 @@
+<img width="1352" height="601" alt="pdf_m6" src="https://github.com/user-attachments/assets/4926e281-afdb-4b2f-847d-986500e7bd80" />
+<img width="1355" height="630" alt="pdf_m5" src="https://github.com/user-attachments/assets/7ec78ffa-eb62-41c7-84e3-e1053160b112" />
+<img width="1354" height="662" alt="pdf_m4" src="https://github.com/user-attachments/assets/2637a0da-7ce6-4881-b827-f3fa759eae4c" />
+<img width="1356" height="672" alt="pdf_m3" src="https://github.com/user-attachments/assets/f65571af-2407-474e-a4b6-cd77f528b591" />
+<img width="1344" height="683" alt="pdf_m2" src="https://github.com/user-attachments/assets/ea22d0b6-f9b0-4db0-8a3a-4f36c70b316c" />
+<img width="1333" height="670" alt="pdf_m1" src="https://github.com/user-attachments/assets/67252dde-bc28-42b2-91fa-8fec6429473e" />
 
 # DocManager - Document Intelligence Application
 
