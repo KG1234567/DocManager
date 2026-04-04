@@ -7,7 +7,7 @@
 
 # DocManager - Document Intelligence Application
 
-A Python-web based document management and analytics system taht helps to organize scattered PDFs, enables fast search, and provides insights into user behavior through clickstream analytics.
+A Python-web based document management and analytics system that helps to organize scattered PDFs, enables fast search, and provides insights into user behavior through clickstream analytics.
 
 
 ## Problem Statement
